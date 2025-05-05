@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tone-slider-text-tool/static/css/main.00ec376f.css",
+    "main.js": "/tone-slider-text-tool/static/js/main.35bdd7f0.js",
+    "index.html": "/tone-slider-text-tool/index.html",
+    "main.00ec376f.css.map": "/tone-slider-text-tool/static/css/main.00ec376f.css.map",
+    "main.35bdd7f0.js.map": "/tone-slider-text-tool/static/js/main.35bdd7f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ec376f.css",
+    "static/js/main.35bdd7f0.js"
+  ]
+}
